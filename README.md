@@ -6,12 +6,3 @@ Predicts sugarcane yield based on environmental and soil parameters,
 Uses historical agricultural data for model training, 
 Supports multiple machine learning algorithms for comparison, 
 Provides accurate and scalable predictions
-
-📥 Input Parameters:
-Rainfall,
-Temperature,
-Soil type,
-Humidity
-
-📤 Output: 
-Predicted sugarcane yield
