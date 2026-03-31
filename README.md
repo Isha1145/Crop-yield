@@ -7,11 +7,11 @@ Uses historical agricultural data for model training,
 Supports multiple machine learning algorithms for comparison, 
 Provides accurate and scalable predictions
 
-Input Parameters:
+📥 Input Parameters:
 Rainfall,
 Temperature,
 Soil type,
 Humidity
 
-📤 Output
+📤 Output: 
 Predicted sugarcane yield
